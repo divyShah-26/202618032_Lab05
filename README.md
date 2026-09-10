@@ -12,7 +12,7 @@
 
 This project performs **Exploratory Data Analysis, Hypothesis Testing, Multiple Linear Regression, Model Diagnostics, and Interactive Prediction** using the Seaborn `tips` dataset.
 
-The final analysis is presented through an interactive **Streamlit dashboard:**https://divyshah-26-202618032-lab05-app-njimim.streamlit.app 
+The final analysis is presented through an interactive **Streamlit dashboard:** https://divyshah-26-202618032-lab05-app-njimim.streamlit.app 
 
 ### Dataset
 
